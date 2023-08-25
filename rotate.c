@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_rotl- rotate stack element to the top
+ * f_rotl- rotate the stack element to the top
  * @head: first node of stack
  * @counter: line counter
  *
@@ -29,7 +29,7 @@ void f_rotl(stack_t **head,  __attribute__((unused)) unsigned int counter)
 }
 
 /**
- * f_rotr - rotate stack element to the bottom
+ * f_rotr - rotate the stack element to the bottom
  * @head: first node of stack
  * @counter: line counter
  *

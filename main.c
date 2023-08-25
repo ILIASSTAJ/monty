@@ -4,9 +4,9 @@
 bus_t bus = {NULL, NULL, NULL, 0};
 
 /**
-* main - monty code interpreter
-* @argc: argument counter
-* @argv: argument vector
+* main -the monty code interpreter
+* @argc: the argument counter
+* @argv: the argument vector
 *
 * Return: always 0
 */

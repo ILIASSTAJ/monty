@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_pstr - print string at the top of stack
+ * f_pstr - print the string at the top of the stack
  * @head: first node of linked list
  * @counter: line counter
  *

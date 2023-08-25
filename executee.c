@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
-* execute - execute opcode
-* @stack: stack of linked list
+* execute - execute the opcode
+* @stack: stack of the linked list
 * @counter: line counter
 * @file: pointer to monty file stream
 * @content: line content

@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * f_queue - print first node of queue
+ * f_queue - print the first node of the queue
  * @head: first node of queue (unused)
  * @counter: line counter (unused)
  *
@@ -17,7 +17,7 @@ void f_queue(stack_t **head, unsigned int counter)
 }
 
 /**
- * addqueue - add node to tail of queue
+ * addqueue - add the node to the tail of the queue
  * @n: new value
  * @head: head of the queue
  *
