@@ -100,6 +100,18 @@ pall This is the end of our program. Monty is awesome!$
 julien@ubuntu:~/monty$
 The monty program
 
+General requirement of monty  :
+
+Allowed editors: vi, vim, emacs
+All files is compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+All files ends with a new line
+There is README.md file at the root of the alx-low_level_programming
+Maximum of one global variable is allowed
+No more than 5 functions per file
+The C standard library is allowed
+The prototypes of all the functions were included in the header file called monty.h
+All the header files are include guarded
+
 Usage: monty file
 where file is the path to the file containing Monty byte code
 If the user does not give any file or more than one argument to your program, print the error message USAGE: monty file, followed by a new line, and exit with the status EXIT_FAILURE
